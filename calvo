@@ -140,8 +140,6 @@ https://live.obslivestream.com/cdeportivo/index.m3u8
 https://538d0bde28ccf.streamlock.net/live-cont.ar/deportv/playlist.m3u8
 #EXTINF:-1 tvg-id="DirecTVSportsArgentina.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/512px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="🏆 Sports",DirecTV Sports (480p) [Geo-blocked]
 http://190.210.221.119/Processor3_9_chunklist_b1300000.m3u8
-#EXTINF:-1 tvg-id="Esport3.es" tvg-logo="https://i.imgur.com/Kbnxu7a.png" group-title="🏆 Sports",Esport3 
-https://directes-tv-es.ccma.cat/live-origin/esport3-hls/master.m3u8
 #EXTINF:-1 tvg-id="TurfMovil.cl" tvg-logo="https://i.imgur.com/TwIe4lK.png" group-title="🏆 Sports",Turf 
 https://janus.tvturf.cl/playlist/stream.m3u8
 #EXTINF:-1 tvg-id="MonterricoTV.pe" tvg-logo="https://i.imgur.com/SuVO9T7.png" group-title="🏆 Sports",Monterrico TV
@@ -256,8 +254,16 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00780-imgmedialtd-edgesports-vidaa/
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00780-imgmedialtd-edgesportsrow-vidaa/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://strongmancl.com/wp-content/uploads/2019/08/SCL-logo.png" group-title="🏆 Sports",Strongman Champions League (EU)
 https://rightsboosterltd-scl-1-eu.vidaa.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="AllSports.br" tvg-logo="https://i.imgur.com/wULpnYR.png" group-title="🏆 Sports",All Sports
+#EXTINF:-1 tvg-id="AllSports.br" tvg-logo="https://i.imgur.com/wULpnYR.png" group-title="🏆 Sports",All Sports| BR
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/0c883a2ffd8edb16d09ccef5db73ccbb.webp" group-title="🏆 Sports",RS News Sports | BR
+https://59f1cbe63db89.streamlock.net:1443/rsnewssports/_definst_/rsnewssports/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/0c883a2ffd8edb16d09ccef5db73ccbb.webp" group-title="🏆 Sports",RS News Sports 2 | BR
+https://59f1cbe63db89.streamlock.net:1443/rsnews/_definst_/rsnews/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.plex.tv/photo?size=large-720&scale=2&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2F1cb3b4d0-801a-4e1a-96aa-50ab047ff782%2Fcampuslore-mock.jpg" group-title="🏆 Sports",CampusLore Sports | US
+https://dai.google.com/linear/hls/event/jUagUaeoSRWtvyFS-T1UOA/master.m3u8
+#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/dee3468a-a0c7-499f-a92b-84efd63b84de/CL_logo.png",group-title="🏆 Sports",CampusLore Sports | US-ARG
+https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-6216ae22c3bbca2de8704f65.m3u8
 #EXTINF:-1 tvg-id="Arryadia.ma" tvg-logo="https://i.imgur.com/XjzK3gZ.png" group-title="🏆 Sports",Arryadi
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/arriadia.m3u8
 #EXTINF:-1 tvg-id="ATG.se" tvg-logo="https://i.imgur.com/5CdW62M.png" group-title="🏆 Sports",ATG
