@@ -1,6 +1,18 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://github.com/tirimosqui2/mlpla/raw/main/logo%20tiri.mp4" group-title="🏆 Sports",Tiri-SportsTV
 https://github.com/tirimosqui2/mlpla/raw/main/logo%20tiri.mp4
+#EXTINF:-1 tvg-id="El Toro TV" tvg-name="EL TORO TV HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/INTECO.png" group-title="🏆 Sports",EL TORO TV HD
+https://edge-nodo-002.streaming.hitcloser.net/eltorotv-streaming-web/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="El Toro TV" tvg-name="EL TORO TV" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/INTECO.png" group-title="🏆 Sports",EL TORO TV
+https://streaming-1.eltorotv.com/lb0/eltorotv-streaming-web/index.m3u8
+#EXTINF:-1 tvg-id="Esport 3" tvg-name="SPORT 3" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/ESP3.png" group-title="🏆 Sports", SPORT 3
+https://directes-tv-es.ccma.cat/live-origin/esport3-hls/master.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/VinxTV/picture?width=200&height=200"group-title="🏆 Sports",Vinx
+https://tv.radiocast.es:5443/vinxtv/streams/vinxtvlive.m3u8
+#EXTINF:-1 tvg-id="VinxTV.es" tvg-logo="https://i.imgur.com/6EGV2eo.png" group-title="🏆 Sports",Vinx TV
+https://vinx.radiocast.es:5443/LiveApp/streams/vinxtv.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yujGVbm.png" group-title="🏆 Sports",Sevilla FC TV HD
+https://open.http.mp.streamamg.com/p/3001314/sp/300131400/playManifest/entryId/0_wzckw85c/format/applehttp/protocol/https/uiConfId/30026292/a.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://tvcuatro.com/images/producciones/php6l1uJn.png" group-title="🏆 Sports",tv cuatro/4-3 Deportes
 https://5f1af61612fb5.streamlock.net/tv43/tv43.smil/.m3u8
 #EXTINF:-1 tvg-logo="https://www.telecostaescuintla.com/gallery_gen/3b51c096b46472b84baedd3e6dba34ff_200x176.png" group-title="🏆 Sports", Telecosta
@@ -16,8 +28,6 @@ https://stream1.sersat.com/hls/garagetv.m3u8
 https://rtvelivestream-clnx.rtve.es/rtvesec/tdp/tdp_main.m3u8
 #EXTINF:-1 channel-id="pluto-64b02bbd7d93410008fdae60" tvg-id="64b02bbd7d93410008fdae60" tvg-logo="https://images.pluto.tv/channels/64b02bbd7d93410008fdae60/colorLogoPNG.png" group-title="🏆 Sports",DAZN Women's Football
 https://r.mjh.nz/PlutoTV/64b02bbd7d93410008fdae60-alt.m3u8
-#EXTINF:-1 tvg-id="VinxTV.es" tvg-logo="https://i.imgur.com/6EGV2eo.png" group-title="🏆 Sports",Vinx TV
-https://vinx.radiocast.es:5443/LiveApp/streams/vinxtv.m3u8
 #EXTINF:-1 tvg-id="62b97ef310e33f0007eea65f" tvg-name="beIN SPORTS XTRA" tvg-logo="https://images.pluto.tv/channels/62b97ef310e33f0007eea65f/colorLogoPNG.png" group-title="🏆 Sports", beIN SPORTS XTRA
 https://stitcher.pluto.tv/stitch/hls/channel/62b97ef310e33f0007eea65f/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=9c43a9bc-b1f6-11ee-9f99-fe81cccbfb1e
 #EXTINF:-1 channel-id="pluto-60492fdd9989d30007ccd30a" tvg-id="60492fdd9989d30007ccd30a" tvg-logo="https://images.pluto.tv/channels/60492fdd9989d30007ccd30a/colorLogoPNG.png" group-title="🏆 Sports", beIN SPORTS XTRA en español
