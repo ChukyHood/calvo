@@ -1,6 +1,10 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://github.com/tirimosqui2/mlpla/raw/main/logo%20tiri.mp4" group-title="🏆 Sports",Tiri-SportsTV
 https://github.com/tirimosqui2/mlpla/raw/main/logo%20tiri.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://womenssports.com/wp-content/uploads/2022/11/womesn-sports-slider5.jpg" group-title="🏆 Sports",Women's Sports Network |ARG
+https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-630fa9e577ec3866def38fa2.m3u8
+#EXTINF:-1 channel-id="pluto-64b02bbd7d93410008fdae60" tvg-id="64b02bbd7d93410008fdae60" tvg-logo="https://images.pluto.tv/channels/64b02bbd7d93410008fdae60/colorLogoPNG.png" group-title="🏆 Sports",DAZN Women's Football
+https://r.mjh.nz/PlutoTV/64b02bbd7d93410008fdae60-alt.m3u8
 #EXTINF:-1 tvg-id="El Toro TV" tvg-name="EL TORO TV HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/INTECO.png" group-title="🏆 Sports",EL TORO TV HD
 https://edge-nodo-002.streaming.hitcloser.net/eltorotv-streaming-web/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="El Toro TV" tvg-name="EL TORO TV" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/INTECO.png" group-title="🏆 Sports",EL TORO TV
@@ -32,12 +36,6 @@ https://di-kzbhv8pw.vo.lswcdn.net/sportitalia/silive24.smil/playlist.m3u8
 https://stream1.sersat.com/hls/garagetv.m3u8
 #EXTINF:-1 tvg-id="TDP.TV" tvg-logo="https://graph.facebook.com/teledeporteRTVE/picture?width=200&height=200" group-title="🏆 Sports",Teledeporte
 https://rtvelivestream-clnx.rtve.es/rtvesec/tdp/tdp_main.m3u8
-#EXTINF:-1 channel-id="pluto-64b02bbd7d93410008fdae60" tvg-id="64b02bbd7d93410008fdae60" tvg-logo="https://images.pluto.tv/channels/64b02bbd7d93410008fdae60/colorLogoPNG.png" group-title="🏆 Sports",DAZN Women's Football
-https://r.mjh.nz/PlutoTV/64b02bbd7d93410008fdae60-alt.m3u8
-#EXTINF:-1 tvg-id="62b97ef310e33f0007eea65f" tvg-name="beIN SPORTS XTRA" tvg-logo="https://images.pluto.tv/channels/62b97ef310e33f0007eea65f/colorLogoPNG.png" group-title="🏆 Sports", beIN SPORTS XTRA
-https://stitcher.pluto.tv/stitch/hls/channel/62b97ef310e33f0007eea65f/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=9c43a9bc-b1f6-11ee-9f99-fe81cccbfb1e
-#EXTINF:-1 channel-id="pluto-60492fdd9989d30007ccd30a" tvg-id="60492fdd9989d30007ccd30a" tvg-logo="https://images.pluto.tv/channels/60492fdd9989d30007ccd30a/colorLogoPNG.png" group-title="🏆 Sports", beIN SPORTS XTRA en español
-https://r.mjh.nz/PlutoTV/60492fdd9989d30007ccd30a-alt.m3u8
 #EXTINF:-1 channel-id="pluto-60d356a534f63f000850cdd7" tvg-id="60d356a534f63f000850cdd7" tvg-logo="https://images.pluto.tv/channels/60d356a534f63f000850cdd7/colorLogoPNG.png" group-title="🏆 Sports", Top Gear
 https://r.mjh.nz/PlutoTV/60d356a534f63f000850cdd7-alt.m3u8
 #EXTINF:-1 channel-id="pluto-6076c74daa05ac0007d0eb07" tvg-id="6076c74daa05ac0007d0eb07" tvg-logo="https://images.pluto.tv/channels/6076c74daa05ac0007d0eb07/colorLogoPNG.png" group-title="🏆 Sports", Tuning
@@ -246,6 +244,42 @@ https://r.mjh.nz/PlutoTV/64c3af96e4391c0008e16d17-alt.m3u8
 https://d38lin0lxb32l3.cloudfront.net/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 #EXTINF:-1 tvg-id="ESBC2700009B4" tvg-chno="4506" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2700009B4_20230712T021339SQUARE.png_20230712021340.png" group-title="🏆 Sports", FIFA+
 https://8deea4ad.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1lc19GSUZBUGx1c19ITFM/playlist.m3u8?ads.wurl_channel=1460&ads.wurl_name=FIFAPlus&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1 tvg-id="62b97ef310e33f0007eea65f" tvg-name="beIN SPORTS XTRA" tvg-logo="https://images.pluto.tv/channels/62b97ef310e33f0007eea65f/colorLogoPNG.png" group-title="🏆 Sports", beIN SPORTS XTRA
+https://stitcher.pluto.tv/stitch/hls/channel/62b97ef310e33f0007eea65f/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=9c43a9bc-b1f6-11ee-9f99-fe81cccbfb1e
+#EXTINF:-1 channel-id="pluto-60492fdd9989d30007ccd30a" tvg-id="60492fdd9989d30007ccd30a" tvg-logo="https://images.pluto.tv/channels/60492fdd9989d30007ccd30a/colorLogoPNG.png" group-title="🏆 Sports", beIN SPORTS XTRA en español
+https://r.mjh.nz/PlutoTV/60492fdd9989d30007ccd30a-alt.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i0.wp.com/www.audiovisual451.com/wp-content/uploads/beIN-Sports.jpeg" group-title="🏆 Sports",Bein Sports 1| THAI
+https://ctrl.laotv.la/live/Bsport1/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i0.wp.com/www.audiovisual451.com/wp-content/uploads/beIN-Sports.jpeg" group-title="🏆 Sports",Bein Sports 2| THAI
+https://ctrl.laotv.la/live/Bsport2/index.m3u8
+#EXTINF:-1 tvg-name="SKITV" tvg-logo="https://i.imgur.com/S6qgwLG.png" group-title="🏆 Sports",Ski TV | US
+https://d2xeo83q8fcni6.cloudfront.net/scheduler/scheduleMaster/193.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.ohlthai.com/wp-content/uploads/2021/03/true-sport-hd-1200x234.png" group-title="🏆 Sports",True Sports 1
+https://ctrl.laotv.la/live/TrueSport6/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.ohlthai.com/wp-content/uploads/2021/03/true-sport-hd-1200x234.png" group-title="🏆 Sports",TRUE SPORTS 1
+https://edge1.laotv.la/live/TrueSport6/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.ohlthai.com/wp-content/uploads/2021/03/true-sport-hd-1200x234.png" group-title="🏆 Sports",True Sports 2
+https://ctrl.laotv.la/live/TSport2/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.ohlthai.com/wp-content/uploads/2021/03/true-sport-hd-1200x234.png" group-title="🏆 Sports",TRUE SPORTS 2
+https://edge2.laotv.la/live/TrueSport2/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.ohlthai.com/wp-content/uploads/2021/03/true-sport-hd-1200x234.png" group-title="🏆 Sports",True Sports 3
+https://ctrl.laotv.la/live/TrueSport3/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.ohlthai.com/wp-content/uploads/2021/03/true-sport-hd-1200x234.png" group-title="🏆 Sports",TRUE SPORTS 3
+https://edge2.laotv.la/live/TrueSport3/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i0.wp.com/www.9tana.com/wp-content/uploads/2019/08/truefootball.jpg" group-title="🏆 Sports",True Premier Football 1
+https://ctrl.laotv.la/live/TSport1/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i0.wp.com/www.9tana.com/wp-content/uploads/2019/08/truefootball.jpg" group-title="🏆 Sports",TRUE SPORTS PREMIER 1
+https://edge1.laotv.la/live/TSport1/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i0.wp.com/www.9tana.com/wp-content/uploads/2019/08/truefootball.jpg" group-title="🏆 Sports",True Premier Football 2
+https://ctrl.laotv.la/live/TSport2/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i0.wp.com/www.9tana.com/wp-content/uploads/2019/08/truefootball.jpg" group-title="🏆 Sports",True Sports Premier 2
+https://edge1.laotv.la/live/TSport2/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i0.wp.com/www.9tana.com/wp-content/uploads/2019/08/truefootball.jpg" group-title="🏆 Sports",True Premier Football 3
+https://ctrl.laotv.la/live/TrueSport2/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://cloud.clearlink.services/logos/optus-sport.png" group-title="🏆 Sports",Optus Sports| THAI
+https://hls.streambtw.com/live/stream_2.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://cloud.clearlink.services/logos/optus-sport.png" group-title="🏆 Sports",Optus Sports| THAI
+https://hls.streambtw.com/live/stream_4.m3u8
 #EXTINF:-1 tvg-id="NBATV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/512px-NBA_TV.svg.png" group-title="🏆 Sports",NBA TV
 https://thetvapp.to/tv/nba-tv-live-stream/
 #EXTINF:-1 group-title="🏆 Sports" tvg-logo="https://qsport.kg/wp-content/uploads/2020/10/qsport.png" ,Qsport
