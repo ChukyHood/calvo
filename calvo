@@ -11,6 +11,12 @@ https://directes-tv-es.ccma.cat/live-origin/esport3-hls/master.m3u8
 https://tv.radiocast.es:5443/vinxtv/streams/vinxtvlive.m3u8
 #EXTINF:-1 tvg-id="VinxTV.es" tvg-logo="https://i.imgur.com/6EGV2eo.png" group-title="🏆 Sports",Vinx TV
 https://vinx.radiocast.es:5443/LiveApp/streams/vinxtv.m3u8
+#EXTINF:-1 tvg-id="MasCiclismoTV.cr" tvg-logo="https://i.imgur.com/UFtqUbB.jpg" group-title="🏆 Sports",Más Ciclismo TV  | CR
+https://ssh101.bozztv.com/ssh101/masciclismo/playlist.m3u8
+#EXTINF:-1 tvg-id="ContactoDeportivo.pe" tvg-logo="https://i.imgur.com/bBnWaq2.png" group-title="🏆 Sports",Contacto Deportivo | PE [Not 24/7]
+https://live.obslivestream.com/cdeportivo/index.m3u8
+#EXTINF:-1 tvg-id="LaRedondaTV.ec" tvg-logo="https://i.imgur.com/a5SxXvJ.jpg" group-title="🏆 Sports",La Redonda TV |ECU  [Not 24/7]
+https://ythls.armelin.one/channel/UCG_S--F4wcdre2-8PG9YlhA.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yujGVbm.png" group-title="🏆 Sports",Sevilla FC TV HD
 https://open.http.mp.streamamg.com/p/3001314/sp/300131400/playManifest/entryId/0_wzckw85c/format/applehttp/protocol/https/uiConfId/30026292/a.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://tvcuatro.com/images/producciones/php6l1uJn.png" group-title="🏆 Sports",tv cuatro/4-3 Deportes
@@ -248,12 +254,18 @@ http://89.254.128.5:22280/qsport/manifest.m3u8
 https://linear-493.frequency.stream/dist/vidaa/493/hls/master/playlist.m3u8?ads.vidaa_ads_contentType=600007&ads.vidaa_ads_contentId=4971
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.sportstribal.tv/home/wp-content/uploads/2022/11/bleavfootball.png" group-title="🏆 Sports",Bleav Sports
 https://linear-477.frequency.stream/dist/vidaa/477/hls/master/playlist.m3u8?ads.vidaa_ads_contentType=600007&ads.vidaa_ads_contentId=4969
+#EXTINF:-1 tvg-id="EDGEsport.uk" tvg-logo="https://i.imgur.com/bgQ6kz7.png" group-title="🏆 Sports",EDGEsport | UK
+https://edgesport-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.sportstribal.tv/home/wp-content/uploads/2021/02/edgesports-logo-sml-v2.png" group-title="🏆 Sports",Edge Sports
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00780-imgmedialtd-edgesports-vidaa/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.sportstribal.tv/home/wp-content/uploads/2021/02/edgesports-logo-sml-v2.png" group-title="🏆 Sports",Edge Sports ROW
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00780-imgmedialtd-edgesportsrow-vidaa/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://strongmancl.com/wp-content/uploads/2019/08/SCL-logo.png" group-title="🏆 Sports",Strongman Champions League (EU)
 https://rightsboosterltd-scl-1-eu.vidaa.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="LacrosseTV.us" tvg-logo="https://i.imgur.com/zYH4IsV.png" group-title="🏆 Sports",Lacrosse TV | US
+https://1840769862.rsc.cdn77.org/FTF/LSN_SCTE.m3u8
+#EXTINF:-1 tvg-id="SonySportsTen1.in" tvg-logo="https://i.imgur.com/hWo7Ba4.png" group-title="🏆 Sports",Sony Sports Ten 1 | UK
+https://dai.google.com/linear/hls/event/wG75n5U8RrOKiFzaWObXbA/master.m3u8
 #EXTINF:-1 tvg-id="AllSports.br" tvg-logo="https://i.imgur.com/wULpnYR.png" group-title="🏆 Sports",All Sports| BR
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/0c883a2ffd8edb16d09ccef5db73ccbb.webp" group-title="🏆 Sports",RS News Sports | BR
