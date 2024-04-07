@@ -130,12 +130,26 @@ https://bcovlive-a.akamaihd.net/rf30937cd87114adaae6e83d15d5f6808/eu-west-1/eu-w
 https://linear-556.frequency.stream/dist/vix/556/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://webunwto.s3.eu-west-1.amazonaws.com/2020-01/sport-congresse.jpg" group-title="🏆 Sports",Tigo Sports Guatemala
 https://linear-556.frequency.stream/dist/vix/556/hls/master/playlist_1024x576.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PfW2jhx.png" group-title="🏆 Sports",TyC_Sport_Play 🇦🇷
-https://d320m3arb2wo8b.cloudfront.net/out/v1/34e0da501a8c4489b713809eb08a9bf3/index_13.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PfW2jhx.png" group-title="🏆 Sports",TyC_Sport_Play 🇦🇷
-https://d1xm2jznwi5xzj.cloudfront.net/out/v1/1bcd1ee954894463b1793597891a25b6/index_10.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PfW2jhx.png" group-title="🏆 Sports",TyC_Sport_Play 🇦🇷
+#EXTINF:-1 tvg-logo="https://i.ibb.co/85X5fTw/tycsportplay.png" group-title="🏆 Sports",TYC SPORTS (PLAY 1) 🇦🇷
+https://dj8bzwveg7go9.cloudfront.net/out/v1/09e35529553d472b8f14e437af642e2f/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/85X5fTw/tycsportplay.png" group-title="🏆 Sports",TYC SPORTS (PLAY 2) 🇦🇷
+https://d320m3arb2wo8b.cloudfront.net/out/v1/34e0da501a8c4489b713809eb08a9bf3/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/85X5fTw/tycsportplay.png" group-title="🏆 Sports",TYC SPORTS (PLAY 3) 🇦🇷
+https://d1xm2jznwi5xzj.cloudfront.net/out/v1/1bcd1ee954894463b1793597891a25b6/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/85X5fTw/tycsportplay.png" group-title="🏆 Sports",TYC SPORTS (PLAY 4) 🇦🇷
+https://dj8bzwveg7go9.cloudfront.net/out/v1/366fc52554ae42c58465ea4b278eac0c/index_15.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/85X5fTw/tycsportplay.png" group-title="🏆 Sports",TYC SPORTS (PLAY 5) 🇦🇷
+https://d107yb993altze.cloudfront.net/out/v1/772e0b0193134726ad84693b7baca6c6/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/85X5fTw/tycsportplay.png" group-title="🏆 Sports",TYC SPORTS (PLAY 6) 🇦🇷
+https://d21no6qan3ol31.cloudfront.net/out/v1/a2f25f61e9d44701aa4e813ac5efc4a4/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/85X5fTw/tycsportplay.png" group-title="🏆 Sports",TYC SPORTS (PLAY 7) 🇦🇷
 https://d3v9hc3dccxi3a.cloudfront.net/out/v1/bccdd4d97f434c63ab2f675e5145758f/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/85X5fTw/tycsportplay.png" group-title="🏆 Sports",TYC SPORTS (PLAY 8) 🇦🇷
+https://dbjn2fo8vpiph.cloudfront.net/out/v1/4c8dc641a91448439388e41118924965/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/85X5fTw/tycsportplay.png" group-title="🏆 Sports",TYC SPORTS (PLAY 9) 🇦🇷
+https://d1scuk1wvkchtc.cloudfront.net/out/v1/19321d887c274b58a4f62fe0f6e2151b/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/85X5fTw/tycsportplay.png" group-title="🏆 Sports",TYC SPORTS (PLAY 10) 🇦🇷
+https://d2scohpz55y5r5.cloudfront.net/out/v1/c43ac17254584daa9781eaaeea1a085d/index.m3u8
 #EXTINF:-1 tvg-id="CnAr🏆 Sports.ar" tvg-logo="https://i.imgur.com/07ki2df.png" group-title="🏆 Sports",CnAr 🏆 Sports
 https://stmv1.cnarlatam.com/cnar🏆 Sports2/cnar🏆 Sports2/playlist.m3u8
 #EXTINF:-1 tvg-id="ContactoDeportivo.pe" tvg-logo="https://i.imgur.com/bBnWaq2.png" group-title="🏆 Sports",Contacto Deportivo
